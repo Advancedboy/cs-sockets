@@ -1,0 +1,8 @@
+E:\#1Programming\2022\patterns\Sockets\Sockets\bin\Debug\Sockets.exe.config
+E:\#1Programming\2022\patterns\Sockets\Sockets\bin\Debug\Sockets.exe
+E:\#1Programming\2022\patterns\Sockets\Sockets\bin\Debug\Sockets.pdb
+E:\#1Programming\2022\patterns\Sockets\Sockets\obj\Debug\ServerTCP.csproj.AssemblyReference.cache
+E:\#1Programming\2022\patterns\Sockets\Sockets\obj\Debug\ServerTCP.csproj.SuggestedBindingRedirects.cache
+E:\#1Programming\2022\patterns\Sockets\Sockets\obj\Debug\ServerTCP.csproj.CoreCompileInputs.cache
+E:\#1Programming\2022\patterns\Sockets\Sockets\obj\Debug\Sockets.exe
+E:\#1Programming\2022\patterns\Sockets\Sockets\obj\Debug\Sockets.pdb
